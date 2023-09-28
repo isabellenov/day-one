@@ -1,0 +1,18 @@
+header {
+    background-color: dodgerblue;
+}
+nav {
+    background-color: aqua;
+}
+main {
+    background-color: blueviolet;
+}
+ul {
+    background-color: dimgray;
+}
+li {
+    color: white
+}
+footer {
+    color: green
+}
